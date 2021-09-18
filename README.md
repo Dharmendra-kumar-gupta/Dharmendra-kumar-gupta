@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently Learning Java Developer
+- 🌱 I’m currently Learning Java Developement Skills
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Dharmendra-kumar-gupta&title_color=e95420&icon_color=000000&text_color=d3d3dd&bg_color=5e2750&show_icons=true">
